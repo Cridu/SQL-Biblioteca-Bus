@@ -22,6 +22,7 @@ Entidades principales del esquema (`NEW_creation.sql`):
 - **Catálogo**: `books`, `more_authors`, `editions`, `copies`
 - **Flota y rutas**: `municipalities`, `routes`, `drivers`, `bibuses`, `assign_drv`, `assign_bus`, `stops`, `services`
 - **Usuarios y actividad**: `users`, `loans`, `posts`
+<img width="580" height="700" alt="image" src="https://github.com/user-attachments/assets/171a2636-0781-4b69-b346-701a19fedcbe" />
 
 ## Estructura del repositorio
 
